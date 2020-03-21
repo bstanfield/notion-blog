@@ -15,7 +15,7 @@ export default () => (
       </div>
       <h1>Benjamin Stanfield's</h1>
       <h2>
-        Notion Blog with Next.js'{' '}
+        Notion-powered Blog with Next.js'{' '}
         <ExtLink
           href="https://github.com/zeit/next.js/issues/9524"
           className="dotted"
